@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidOAuthTutorialProject</string>
+    <string name="callback">minorimoe://callback</string>
+    <string name="accessTokenTextViewString">Access Token:</string>
+    <string name="refreshTokenTextViewString">Refresh Token:</string>
+    <string name="tokenExpiryTextViewString">Token Expiry:</string>
+</resources>
